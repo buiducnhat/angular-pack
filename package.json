@@ -1,0 +1,22 @@
+{
+  "name": "bdn-angular-pack",
+  "displayName": "BDN Angular pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "publisher": "buiducnhat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buiducnhat/angular-pack.git"
+  },
+  "extensionPack": [
+    "angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "johnpapa.angular2"
+  ]
+}
